@@ -53,7 +53,7 @@ Lore Ipsum Lore Ipsum Lore Ipsum Lore Ipsum Lore Ipsum Lore Ipsum .</br>
 
 
 
- <h1>## Contacts. <img height="30" width="40" alt="contact" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/address-card.svg"></h1>
+ <h1>Contacts. <img height="30" width="40" alt="contact" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/address-card.svg"></h1>
  </div>
 <div>
 <a href="https://www.linkedin.com/in/###########/"target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
