@@ -47,7 +47,7 @@
 </div><br />
 
 I'm an information system student passionate about technology. <br>
-I'm finishing college.<br>
+I'm finishing college, 8º .<br>
 <a href="https://arthurandrade-port.netlify.app" target="blank">My portfolio.💻</a><br>
 
 <h1>Contacts. <img height="30" width="40" alt="contact"
