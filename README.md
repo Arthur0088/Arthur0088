@@ -16,7 +16,7 @@
     <!-- HTML5  -->
     <img height="50" width="60" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />   
     <!-- CSS3  -->       
-    <img height="50" width="60" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img height="50" width="60" alt="REACT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <!-- PHP  -->                   
     <img height="50" width="60" alt="C#"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <!-- C#  -->
