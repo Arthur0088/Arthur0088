@@ -28,6 +28,8 @@
   <!-- C#  -->
   <img height="50" width="60" alt=".Net"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img height="50" width="60" alt=".Net"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <!-- .Net  -->
   <img height="50" width="60" alt="MySQL"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
