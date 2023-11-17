@@ -50,7 +50,7 @@
 
 I'm an information system student passionate about technology. <br>
 I'm finishing college, 8º .<br>
-<a href="https://arthurandrade-port.netlify.app" target="blank">My portfolio.💻</a><br>
+<a href="https://arthurandradeport.netlify.app" target="blank">My portfolio.💻</a><br>
 
 <h1>Contacts. <img height="30" width="40" alt="contact"
     src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/address-card.svg"></h1>
